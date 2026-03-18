@@ -1,0 +1,1 @@
+IgH EtherCAT Master(Linux) 환경에서의 LS 메카피온 L7N 서보 드라이브 4축 실시간 제어 구현. CiA402 기반 상태 머신 사용 및 CSP, CSV, CST 제어 모드 전환
